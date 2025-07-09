@@ -1,0 +1,17 @@
+{
+  "name": "tools-by-roox",
+  "version": "1.0.0",
+  "description": "Tools ini di ciptakan hanya untuk edukasi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "rooxJSphire",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "chalk": "^4.1.2",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^8.2.4"
+  }
+}
